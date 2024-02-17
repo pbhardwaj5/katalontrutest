@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to Page secure admin ViewLogging jspa",
+        "step 2: At Page secure admin ViewLogging jspa login > navigate to Page secure admin ViewLogging jspa",
+        "step 3: At Page secure admin ViewLogging jspa, input on input websudopassword",
+        "step 4: At Page secure admin ViewLogging jspa, click on button login form submit",
+        "step 5: At Page secure admin ViewLogging jspa, click on hyperlink manage apps > navigate to Page plugins servlet upm marketplace featured",
+        "step 6: At Page plugins servlet upm marketplace featured, click on hyperlink com thinktilt proforma add on admin proj > navigate to Page plugins servlet com thinktilt proforma add-on admin-project",
+        "step 7: At Page plugins servlet com thinktilt proforma add-on admin-project, click on hyperlink com thinktilt proforma add on admin form > navigate to Page plugins servlet com thinktilt proforma add-on admin-forms",
+        "step 8: At Page plugins servlet com thinktilt proforma add-on admin-forms, click on button create form > navigate to Page plugins servlet com thinktilt proforma add-on form-builder",
+        "step 9: At Page plugins servlet com thinktilt proforma add-on form-builder, click on button building access",
+        "step 10: At Page plugins servlet com thinktilt proforma add-on form-builder, click on button insert template",
+        "step 11: At Page plugins servlet com thinktilt proforma add-on form-builder, click on button save",
+        "step 12: At Page plugins servlet com thinktilt proforma add-on form-builder, click on button close > navigate to Page plugins servlet com thinktilt proforma add-on project-forms",
+        "step 13: At Page plugins servlet com thinktilt proforma add-on project-forms, click on button copy",
+        "step 14: Add visual checkpoint at Page plugins servlet com thinktilt proforma add-on project-forms"
+    ]
+}
